@@ -1,0 +1,16 @@
+.liborder{
+  background-color: rgb(105, 200, 254);
+  margin-left: 0px;
+  border: solid black;
+  border-radius: 2px;
+  margin: 10px;
+  width: 15vw;
+}
+ul{
+  list-style: none;
+}
+.wrapper{
+display: flex;
+align-items:center;
+justify-content:flex-start;
+}
